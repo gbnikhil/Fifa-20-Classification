@@ -1,5 +1,6 @@
 # Fifa-20-Classification
-FIFA 20 - Player Type Classification
+FIFA 20 ML Player Type Classification model developed using ML algorithms
+*****************************************************************************
 
 Built a FIFA Classification model using Machine Learning in Python which considers excel file as input and contains player stats from EA Sports FIFA 20 video game. This data was
 scraped from "https://sofifa.com/". 
